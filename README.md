@@ -1,7 +1,7 @@
-# Advanced-Calculator
+# Calculator
 
 # Aim : 
-The aim of the project is to create a Advanced Calculator using Java Swing.
+The aim of the project is to create a Calculator using Java Swing.
 It perform basic operations:
  > Addition, Multiplication, Division, Substraction, Square and Square root
  
