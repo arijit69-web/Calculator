@@ -14,7 +14,7 @@ It perform basic operations:
 - Java 
 - Java Swing
 
-# Demo of the the Calculator App :
+# Screenshots of the the Calculator App :
 
 <img width="203" alt="calc" src="https://user-images.githubusercontent.com/60184336/127898411-c9c7d30f-4fa0-4c05-93a2-09ee0035991f.PNG">
 
