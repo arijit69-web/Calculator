@@ -6,7 +6,7 @@ It perform basic operations:
 - Addition
 - Multiplication
 - Division
-- Substraction
+- Subtraction
 - Square-
 - Square root
  
